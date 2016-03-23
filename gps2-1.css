@@ -1,0 +1,27 @@
+header {
+    display: block;
+    background: red;
+}
+
+.column-1 {
+    vertical-align: top;
+    float: left;
+    background: white;
+    display: inline-block;
+    width: 45%;
+}
+
+.column-2 {
+    vertical-align: top;
+   
+    background: blue;
+    width: 45%;
+    display: inline-block;
+}
+
+footer {
+    clear: both;
+    vertical-align: bottom;
+    width: 100%;
+    background: yellow;
+}
